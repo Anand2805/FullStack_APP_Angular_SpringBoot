@@ -18,7 +18,7 @@ Implement a REST service which receives the customer statement JSON as a POST da
 
 - After running the Spring boot application
 
-- Download https://github.com/AnandKenta/rabo-bank-customer and follow the ReadMe.md file for running the application
+- Download https://github.com/Anand2805/FullStack_APP_Angular_SpringBoot/tree/main/rabo-bank-customer-master and follow the ReadMe.md file for running the application
 
 - Install Node packages - npm install
 
